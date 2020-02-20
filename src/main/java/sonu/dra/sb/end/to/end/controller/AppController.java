@@ -19,7 +19,7 @@ public class AppController {
 
     @GetMapping("/test")
     String test() {
-        return "sonu sunindra";
+        return "sonu ";
     }
 
    /* @GetMapping(value = "/getAllEmployee"*//*produces = "text/plain"*//*)
